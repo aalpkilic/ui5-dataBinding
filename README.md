@@ -16,7 +16,6 @@
 ---
 
 <!-- PROJECT LOGO -->
-<br />
 <div align="center">
   <a href="https://github.com/aalpkilic/ui5-dataBinding">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
@@ -25,7 +24,7 @@
   <h3 align="center">UI5 - Data Binding Template </h3>
 
   <p align="center">
-    <strong>Data binding is a process that establishes a connection between user interface (UI) elements and data sources. By doing so, it ensures that any changes made to the data in the source are reflected in the UI elements. The primary objective of data binding is to keep the data synchronized and up-to-date in the UI. It also allows users to edit the UI's data directly, without going through the source. This is a crucial feature for businesses and academia, as it saves time and improves data manipulation and analysis efficiency.</strong>
+    <strong> Data binding is used to bind UI elements to data sources to keep the data in sync and allow data editing on the UI.</strong>
     <br />
     <br />
     <a href="https://github.com/aalpkilic/ui5-dataBinding">View Demo</a>
@@ -36,9 +35,79 @@
   </p>
 </div>
 
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+     <!-- <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul> -->
+    </li>
+    <!-- <li>
+      <a href="#getting-started">Getting Started</a>
+       <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul> 
+    </li> -->
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
+
+---
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+[![Product Name Screen Shot][product-screenshot]](https://github.com/aalpkilic/ui5-dataBinding/blob/main/images/project-template.png)
+
+Data binding is a process that establishes a connection between user interface (UI) elements and data sources. By doing so, it ensures that any changes made to the data in the source are reflected in the UI elements. The primary objective of data binding is to keep the data synchronized and up-to-date in the UI. It also allows users to edit the UI's data directly, without going through the source. This is a crucial feature for businesses and academia, as it saves time and improves data manipulation and analysis efficiency. :smile:
+
+---
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- Improved compatibility of back-to-top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
+
+---
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+
+<!-- CONTACT -->
+## Contact
+
+Your Name - [@aalp.kilic]([https://twitter.com/your_username](https://www.instagram.com/aalp.kilic/)) - aalpkilicc@gmail.com
+
+Project Link: [https://github.com/aalpkilic/ui5-dataBinding](https://github.com/aalpkilic/ui5-dataBinding)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -56,4 +125,5 @@
 [license-url]: https://github.com/aalpkilic/ui5-dataBinding/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/alp-kılıç-16aaa8145
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: https://github.com/aalpkilic/ui5-dataBinding/blob/main/images/project-template.png
+
