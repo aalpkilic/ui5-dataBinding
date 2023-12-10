@@ -112,7 +112,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@aalp.kilic]([https://twitter.com/your_username](https://www.instagram.com/aalp.kilic/)) - aalpkilicc@gmail.com
+Anıl Alp Kılıç - [@aalp.kilic](https://www.instagram.com/aalp.kilic/) - aalpkilicc@gmail.com
 
 Project Link: [https://github.com/aalpkilic/ui5-dataBinding](https://github.com/aalpkilic/ui5-dataBinding)
 
