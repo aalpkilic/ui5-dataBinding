@@ -20,7 +20,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">
   <a href="https://github.com/aalpkilic/ui5-dataBinding">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/project-logo.png" alt="Logo" width="160" height="80">
   </a>
 
   <h3 align="center">UI5 - Data Binding Template </h3>
@@ -70,6 +70,14 @@
 Data binding is a process that establishes a connection between user interface (UI) elements and data sources. By doing so, it ensures that any changes made to the data in the source are reflected in the UI elements. The primary objective of data binding is to keep the data synchronized and up-to-date in the UI. It also allows users to edit the UI's data directly, without going through the source. This is a crucial feature for businesses and academia, as it saves time and improves data manipulation and analysis efficiency. :smile:
 
 ---
+
+<!-- ### Built With
+
+This section lists any major frameworks/libraries used to bootstrap this project. 
+
+* [![openUI5][openUi5.org]][openUi5.url]
+
+--- -->
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -127,4 +135,6 @@ Project Link: [https://github.com/aalpkilic/ui5-dataBinding](https://github.com/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/alp-kılıç-16aaa8145
 [product-screenshot]: https://github.com/aalpkilic/ui5-dataBinding/blob/main/images/project-template.png
+[openUi5.org]: https://raw.githubusercontent.com/SAP/ui5-webcomponents/main/docs/images/UI5_logo_wide.png
+[openUi5-url]: https://openui5.org/
 
