@@ -1,0 +1,18 @@
+{
+    "_version": "1.58.0",
+    "sap.app": {
+        "id": "databinding",
+        "i18n": "i18n/i18n.properties",
+        "title": "{{appTitle}}",
+        "description": "{{appDescription}}",
+        "type": "application",
+        "applicationVersion": {
+            "version": "1.0.0"
+        },
+        "sourceTemplate": {
+            "id": "@sap/ux-app-migrator:freestyle",
+            "version": "1.11.5",
+            "toolsId": "4b15bc2d-8a9e-4737-b614-39b9ebe286bc"
+        }
+    }
+}
