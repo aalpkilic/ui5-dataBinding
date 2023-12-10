@@ -130,7 +130,7 @@ Project Link: [https://github.com/aalpkilic/ui5-dataBinding](https://github.com/
 [stars-url]: https://github.com/aalpkilic/ui5-dataBinding/stargazers
 [issues-shield]: https://img.shields.io/github/issues/aalpkilic/ui5-dataBinding.svg?style=for-the-badge
 [issues-url]: https://github.com/aalpkilic/ui5-dataBinding/issues
-[license-shield]: https://img.shields.io/github/license/aalpkilic/ui5-dataBinding.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/aalpkilic/dataBinding.svg?style=for-the-badge
 [license-url]: https://github.com/aalpkilic/ui5-dataBinding/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/alp-kılıç-16aaa8145
