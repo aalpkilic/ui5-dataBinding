@@ -26,14 +26,16 @@
   <h3 align="center">UI5 - Data Binding Template </h3>
 
   <p align="center">
-    <strong> Data binding is used to bind UI elements to data sources to keep the data in sync and allow data editing on the UI.</strong>
-    <br />
-    <br />
-    <a href="https://github.com/aalpkilic/ui5-dataBinding">View Demo</a>
-    ·
-    <a href="https://github.com/aalpkilic/ui5-dataBinding/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/aalpkilic/ui5-dataBinding/issues">Request Feature</a>
+    <strong> Data binding is a process that establishes a connection between user interface (UI) elements and data sources. By doing so, it ensures that any changes made to the data in the source are reflected in the UI elements. The primary objective of data binding is to keep the data synchronized and up-to-date in the UI. It also allows users to edit the UI's data directly, without going through the source. This is a crucial feature for businesses and academia, as it saves time and improves data manipulation and analysis efficiency 🧛</strong>
+
+    
+  <br />
+  <br />
+  <a href="https://github.com/aalpkilic/ui5-dataBinding">View Demo</a>
+  ·
+  <a href="https://github.com/aalpkilic/ui5-dataBinding/issues">Report Bug</a>
+  ·
+  <a href="https://github.com/aalpkilic/ui5-dataBinding/issues">Request Feature</a>
   </p>
 </div>
 
@@ -66,8 +68,6 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/aalpkilic/ui5-dataBinding/blob/main/images/project-template.png)
-
-Data binding is a process that establishes a connection between user interface (UI) elements and data sources. By doing so, it ensures that any changes made to the data in the source are reflected in the UI elements. The primary objective of data binding is to keep the data synchronized and up-to-date in the UI. It also allows users to edit the UI's data directly, without going through the source. This is a crucial feature for businesses and academia, as it saves time and improves data manipulation and analysis efficiency. :smile:
 
 ---
 
