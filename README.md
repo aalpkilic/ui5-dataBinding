@@ -116,6 +116,10 @@ Anıl Alp Kılıç - [@aalp.kilic](https://www.instagram.com/aalp.kilic/) - aalp
 
 Project Link: [https://github.com/aalpkilic/ui5-dataBinding](https://github.com/aalpkilic/ui5-dataBinding)
 
+<div align="center">
+<img src="https://github.com/aalpkilic/ui5-dataBinding/assets/140668696/1c6db63a-c19e-424c-8a9f-ef77f0b537df">
+</div>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
